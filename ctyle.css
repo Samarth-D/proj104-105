@@ -1,0 +1,9 @@
+body {
+    background:linear-gradient(to right, #00C2DB , #0a71c5 , #024FAD ,#0232AD, #0215AD, #3a00db );
+    color:#000000;
+}
+.heading {
+    width:80%;
+    height: 10%;
+    font-size:40;
+}
